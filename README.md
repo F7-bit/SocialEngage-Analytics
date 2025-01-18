@@ -4,13 +4,20 @@
 
 ## Tool Used
 
-  [<img src="codeoutput_images/Mysql_logo.png" width="100"/>](https://www.mysql.com/) &nbsp;
+[<img src="codeoutput_images/Mysql_logo.png" width="100"/>](https://www.mysql.com/) &nbsp;
 
 ## Motivation
 
 In the fast-paced world of social media, understanding user engagement and content performance is crucial for anyone looking to optimize their online presence. Whether you're a content creator, marketer, or business, having actionable insights into what drives user interaction can significantly influence strategy and decision-making.
 
 This project was developed with the goal of analyzing user behavior and content engagement on social media platforms. By exploring trends such as the most liked and commented posts, popular hashtags, and active users, the project provides a comprehensive look at how users interact with content. With these insights, individuals and businesses can better tailor their content to meet the interests and preferences of their audience.
+
+## Components
+
+[Queries](https://github.com/F7-bit/SocialMediaEngagement-Analytics/blob/main/queries_social_analytics.sql)
+[Code Output Images](https://github.com/F7-bit/SocialMediaEngagement-Analytics/tree/main/codeoutput_images)
+[ER Diagram](https://github.com/F7-bit/SocialMediaEngagement-Analytics/blob/main/er_diagram.png)
+
 
 ## Key goals of the project include:
 - Identifying top-performing content to guide content creation strategies.
