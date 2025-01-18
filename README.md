@@ -55,7 +55,7 @@ This project was developed with the goal of analyzing user behavior and content 
 - **Captions Containing Specific Words**: Finds captions containing certain words like 'love' or 'life'.
 - **Captions by Length Category**: Categorizes captions by their length (short, medium, long).
 
-- ## Insights
+## Insights
 
 The **SocialMediaEngage-Analytics** project provides several valuable insights, including:
 
