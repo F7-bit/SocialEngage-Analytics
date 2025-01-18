@@ -2,6 +2,10 @@
 
 **SocialMediaEngagement-Analytics** is an SQL-based project designed to analyze user engagement, content performance, and social media behavior. The project uses MySQL queries to extract key insights from social media data, helping to understand how users interact with content, popular hashtags, and more.
 
+## Tool Used
+
+  [<img src="codeoutput_images/Mysql_logo.png" width="100"/>](https://www.mysql.com/) &nbsp;
+
 ## Motivation
 
 In the fast-paced world of social media, understanding user engagement and content performance is crucial for anyone looking to optimize their online presence. Whether you're a content creator, marketer, or business, having actionable insights into what drives user interaction can significantly influence strategy and decision-making.
