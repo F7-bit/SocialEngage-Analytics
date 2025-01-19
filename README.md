@@ -25,7 +25,7 @@ This project was developed with the goal of analyzing user behavior and content 
 - Uncovering trends in hashtag usage for targeted content marketing.
 - Gaining insights into user behavior patterns to improve engagement.
 
-## Key Features
+## Key Features (Queries)
 
 ### **1. Engagement Analysis**
 - **Most Liked Post**: Identifies the post with the highest number of likes.
