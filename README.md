@@ -29,17 +29,28 @@ This project was developed with the goal of analyzing user behavior and content 
 
 ### **1. Engagement Analysis**
 - **Most Liked Post**: Identifies the post with the highest number of likes.
+  
    <img src="codeoutput_images/most_liked1.png" />&nbsp
+  
 - **Top Users by Likes Received**: Ranks users based on total likes received on their posts.
+  
    <img src="codeoutput_images/like_rece2.png" />&nbsp
+  
 - **Most Commented Posts**: Finds posts with the highest number of comments.
+  
    <img src="codeoutput_images/most_comments3.png" />&nbsp
+  
 - **Users with Most Comments on Their Posts**: Highlights users whose posts have received the most comments.
+- 
    <img src="codeoutput_images/user_most_comment4.png" />&nbsp
+  
 - **Most Liked and Commented Posts**: Combines likes and comments to identify the most engaging posts.
-   <img src="" />&nbsp
+  
+   <img src="codeoutput_images/most_like_comment.png" />&nbsp
+  
 - **Users with Most Likes Given**: Identifies users who have liked the most posts.
-   <img src="Code_Output/rental rate category.PNG" />&nbsp
+  
+   <img src="codeoutput_images/user_mostlikes_given.png" />&nbsp
 
 ### **2. User Activity Analysis**
 - **Most Active Users (by Number of Posts)**: Identifies users who contribute the most content.
