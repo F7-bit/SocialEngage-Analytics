@@ -14,8 +14,8 @@ This project was developed with the goal of analyzing user behavior and content 
 
 ## Components
 
-- [Queries](https://github.com/F7-bit/SocialMediaEngagement-Analytics/blob/main/queries-insights.sql)
-- [ER Diagram](https://github.com/F7-bit/SocialMediaEngagement-Analytics/blob/main/er_diagram.png)
+- [Queries](https://github.com/F7-bit/SocialMediaEngagement-Analytics/blob/main/Queries.sql)
+- [ER Diagram](https://github.com/F7-bit/SocialMediaEngagement-Analytics/blob/main/ER_diagram.png)
 
 
 ## Key goals of the project include:
