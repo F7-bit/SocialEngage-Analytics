@@ -42,7 +42,7 @@ This project was developed with the goal of analyzing user behavior and content 
    <img src="codeoutput_images/most_comments3.png" />
   
 - **Users with Most Comments on Their Posts**: Highlights users whose posts have received the most comments.
-- 
+  
    <img src="codeoutput_images/user_most_comment4.png" />
   
 - **Most Liked and Commented Posts**: Combines likes and comments to identify the most engaging posts.
@@ -126,6 +126,7 @@ This project was developed with the goal of analyzing user behavior and content 
    <img src="codeoutput_images/only_photos.png" />
 
 - **Logins from Multiple IPs for a Single User**: Tracks users logging in from different IPs.
+  
    <img src="codeoutput_images/multiple_ips.png" />
 
 ### **6. Location and Caption Analysis**
