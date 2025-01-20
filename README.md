@@ -28,6 +28,7 @@ This project was developed with the goal of analyzing user behavior and content 
 ## Key Features / Queries
 
 ### **1. Engagement Analysis**
+
 - **Most Liked Post**: Identifies the post with the highest number of likes.
   
    <img src="codeoutput_images/most_liked1.png" />
@@ -53,56 +54,97 @@ This project was developed with the goal of analyzing user behavior and content 
    <img src="codeoutput_images/user_mostlikes_given.png" />
 
 ### **2. User Activity Analysis**
+
 - **Most Active Users (by Number of Posts)**: Identifies users who contribute the most content.
-   <img src="Code_Output/rental rate category.PNG" />&nbsp
+  
+   <img src="codeoutput_images/most_active.png" />
+  
 - **Users with Most Followers**: Ranks users based on their total number of followers.
-   <img src="Code_Output/rental rate category.PNG" />&nbsp
+  
+   <img src="codeoutput_images/most_followers.png" />
+   
 - **Users Who Follow Others Most**: Identifies users who follow the highest number of others.
-   <img src="Code_Output/rental rate category.PNG" />&nbsp
+  
+   <img src="codeoutput_images/most_following.png" />
+  
 - **Users Who Commented the Most**: Highlights users with the most comments on posts.
-   <img src="Code_Output/rental rate category.PNG" />&nbsp
+  
+   <img src="codeoutput_images/user_mostcomments.png" />
+  
 - **Users Who Logged in Multiple Times**: Tracks users with multiple logins.
-   <img src="Code_Output/rental rate category.PNG" />&nbsp
+  
+   <img src="codeoutput_images/login_count.png" />
+  
 - **Users with Most Mutual Follows**: Analyzes mutual follow relationships.
-   <img src="Code_Output/rental rate category.PNG" />&nbsp
+  
+   <img src="codeoutput_images/mutual_follows.png" />
 
 ### **3. Content Analysis**
+
 - **Most Liked Photo Post**: Identifies the most liked photo post.
-   <img src="Code_Output/rental rate category.PNG" />&nbsp
+  
+   <img src="codeoutput_images/most_liked_photo.png" />
+   
 - **Most Liked Video Post**: Identifies the most liked video post.
-   <img src="Code_Output/rental rate category.PNG" />&nbsp
+  
+   <img src="codeoutput_images/most_likes_video.png" />
+
 - **Content Types (Photos vs Videos) with Higher Likes**: Compares likes between photo and video posts.
-   <img src="Code_Output/rental rate category.PNG" />&nbsp
+  
+   <img src="codeoutput_images/photo_vs_video.png" />
 
 ### **4. Hashtag and Trend Analysis**
+
 - **Most Popular Hashtags**: Identifies the most used hashtags and their frequency.
-   <img src="Code_Output/rental rate category.PNG" />&nbsp
+  
+   <img src="codeoutput_images/popular_hashtags.png" />
+   
 - **Posts with Specific Hashtags**: Analyzes posts containing specific hashtags.
-   <img src="Code_Output/rental rate category.PNG" />&nbsp
+  
+   <img src="codeoutput_images/specific_hashtag.png" />
+   
 - **Hashtags Used Together Most Often**: Identifies pairs of hashtags that are used together frequently.
-   <img src="Code_Output/rental rate category.PNG" />&nbsp
+  
+   <img src="codeoutput_images/hashtag_pair.png" />
+  
 - **Users Posting the Most Unique Hashtags**: Highlights users posting the most unique hashtags.
-   <img src="Code_Output/rental rate category.PNG" />&nbsp
+  
+   <img src="codeoutput_images/unqqiue_ht.png" />
 
 ### **5. User Behavior Trends**
+
 - **Users Who Only Like Photos (No Comments)**: Identifies users who only like photo posts without commenting.
-   <img src="Code_Output/rental rate category.PNG" />&nbsp
+  
+   <img src="codeoutput_images/only_likes.png" />
+
 - **Users Posting Only Videos**: Identifies users who only post videos.
-   <img src="Code_Output/rental rate category.PNG" />&nbsp
+  
+   <img src="codeoutput_images/only_videos.png" />
+   
 - **Users Posting Only Photos**: Identifies users who only post photos.
-   <img src="Code_Output/rental rate category.PNG" />&nbsp
+  
+   <img src="codeoutput_images/only_photos.png" />
+
 - **Logins from Multiple IPs for a Single User**: Tracks users logging in from different IPs.
-   <img src="Code_Output/rental rate category.PNG" />&nbsp
+   <img src="codeoutput_images/multiple_ips.png" />
 
 ### **6. Location and Caption Analysis**
+
 - **Most Popular Locations**: Identifies the most popular locations where posts are made.
-   <img src="Code_Output/rental rate category.PNG" />&nbsp
+  
+   <img src="codeoutput_images/popular_location.png" />
+
 - **Average Caption Length per User**: Analyzes the average caption length for each user.
-   <img src="Code_Output/rental rate category.PNG" />&nbsp
+  
+   <img src="codeoutput_images/avg_caption_length.png" />
+  
 - **Captions Containing Specific Words**: Finds captions containing certain words like 'love' or 'life'.
-   <img src="Code_Output/rental rate category.PNG" />&nbsp
+  
+   <img src="codeoutput_images/caption_specific_words.png" />
+
 - **Captions by Length Category**: Categorizes captions by their length (short, medium, long).
-   <img src="Code_Output/rental rate category.PNG" />&nbsp
+  
+   <img src="codeoutput_images/caption_length_category.png" />
 
 ## Insights
 
